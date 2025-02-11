@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Skywalker-341 and I'm a Cybersecurity forensics 😎😄</h2>
+<h2 align="left">Hi 👋! I'm Skywalker-341 and I'm a Cybersecurity forensics analyst 😎😄</h2>
 
 ###
 
