@@ -1,68 +1,39 @@
-<h2 align="left">Hi! I'm Skywalker-341 and I'm a Cybersecurity Researcher </h2>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cyb3r-w0lf&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="skywalker-341" /> </p>
 
-###
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Aneesh+" />
+</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skywalker-341&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="126" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skywalker-341&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="106" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
 
-###
+<!-- <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"> -->
+<!-- <img align="right" alt="typing" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pwYTd4cTE0NnVrYTR6MG5wMGp2dm1sOHNmb2YxdW82Zm4yanRleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAKXyzgLVtKsU/giphy.gif"> -->
+<img align="right" alt="typing" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGp6b3dvaWttbHJpNnFweWdiaDZvamhwZGRrcjMxNXllcjgyOXUxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif">
 
-<br clear="both">
+---
 
-<img align="right" height="150" src="https://images.ctfassets.net/un655fb9wln6/blog-image-830/5b454643b2cbe83e846f77e6bf922681/auto-tweet-to-your-discord-server-and-other-interesting-discord-twitter-integrations.png"  />
+- 🔭 I'm a CyberSecurity Engineer who likes to Break and Secure stuffs.
+- 💬 Talks about Web, Api, Incident Response & Mobile Security. 
+- 🌱 I’m currently learning Reverse Engineering & Exploit Development.
+- 📫 Open to new opportunities **aneeshkarthikeyan2005@gmail.com**
+- 🏠 Connect with me in [Linkedin](https://www.linkedin.com/in/aneesh-m-039389297/)
+- 👩🏻‍💻 Play with me in  [HackTheBox](https://app.hackthebox.com/users/1910303) 
+-    
+---
 
-###
+📊 Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
-</div>
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skywalker-341&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skywalker-341&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skywalker-341&theme=tokyonight)
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
 
-<br clear="both">
+<h3 align="center">
 
-<img src="https://raw.githubusercontent.com/Skywalker-341/Skywalker-341/output/snake.svg" alt="Snake animation" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
 
-###
+</h3>
