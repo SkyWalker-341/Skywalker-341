@@ -26,7 +26,7 @@
 📊 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skywalker-341&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Skywalker-341&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skywalker-341&theme=tokyonight)
 
 
